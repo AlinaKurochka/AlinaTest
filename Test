@@ -1,0 +1,18 @@
+<!DOKTYPE html>
+<html lang="ru"
+<head>
+<meta charset="UTF-8"
+<title> JavaScript </title>
+
+<script>
+alert('Добро Пожаловать')
+</script>
+</head>
+<body>
+<h1> Подклучение JavaScript сценария ХТМЛ документу</h1>
+<ul>
+<li> Вариант1. Подключение внутри html-файла.</li>
+<li> ВАриант2. Подключение внещнего файла скрипта с кодомю</li>
+</ul>
+</body>
+</html>
